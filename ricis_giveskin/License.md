@@ -1,6 +1,6 @@
 # LICENSE
 
-**Copyright © 2024 [Your Name or Your Company]**
+**Copyright © 2024 [Rici]**
 
 All rights reserved.
 
